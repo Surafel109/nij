@@ -1,0 +1,2 @@
+# nij
+my first github
